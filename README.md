@@ -100,7 +100,7 @@ The "Real-time Pose Estimation" project follows a clear sequence of operations:
 I'd love to hear your thoughts and suggestions on this project! Feel free to provide any feedback on its functionality, code structure, potential improvements, or any other observations you might have.
 
 ## Video Link:
-*(No video link provided in the prompt)*
+https://vimeo.com/1098242933
 
 ## Output:
-*(No output images provided in the prompt)*
+
