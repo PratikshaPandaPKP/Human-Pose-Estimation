@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04e6172c-ac0e-42ff-9d54-d1b739df2a90)# Real-time Pose Estimation
+# Real-time Pose Estimation
 
 This project implements a real-time human pose estimation system using OpenCV for video stream handling and MediaPipe Pose for detecting and tracking 3D pose landmarks. The system processes live video input from a webcam, identifies key body points, and overlays these landmarks and connections directly onto the video feed.
 
